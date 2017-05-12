@@ -54,10 +54,10 @@ UnityMobile Game built in ILT in Kolkata, India
 >- 사용자가 게임의 결과에 따라 다른 구성을 보이는 Sense.
 >
 >- 게임을 다시 시작하거나 close시킬 수 있는 기능을 가지고 있다. 
->  
+>  </br>
 
 
-<br>
+
 # Game UI 
 ## Game Sense
 ![game1](./images/game1.png)
